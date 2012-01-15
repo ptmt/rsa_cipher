@@ -48,7 +48,39 @@ from http://www.haskell.org/haskellwiki/Testing_primality
 <member name="">
 
 </member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
 <member name="T:rsa_cipher">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:rsa_helpers.modulo_inverse(System.Numerics.BigInteger,System.Numerics.BigInteger)">
+<summary>
+ modulo_inverse(a,n) = b, such that a*b = 1 [mod n]
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
 
 </member>
 <member name="">
